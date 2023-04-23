@@ -9,7 +9,7 @@
 <br>
 <i><b>Tema:</b></i> Segundo Parcial. ETL
 <br>
-<i><b>Fecha:</b></i>20/04/23
+<i><b>Fecha:</b></i>26/04/23
 <br>
 </p>
 
@@ -42,3 +42,5 @@ d) Crear un Job que inserte la información en una base de datos MYSQL(usando aw
 - Activar la opción “job bookmarks” cuando se cree el job por interfaz. Esto permite que glue lleve una trazabilidad de los datos insertados y evita que se vuelvan a insertar datos ya insertados.
 
 # Resultado
+![workflow](https://user-images.githubusercontent.com/79545528/233842682-cafb8487-57ba-4045-9509-316368fbe826.PNG)
+
